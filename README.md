@@ -28,7 +28,7 @@ By transforming manual spreadsheets and static workflows into a dynamic web syst
 
 | Layer               | Stack / Tools                                                      | Description                                                                          |
 | ------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| **Frontend**        | **Angular 17**, **RxJS**, **Angular Material**, **NgRx**, **SCSS** | Built responsive, data-driven interfaces for risk analysis and monitoring workflows. |
+| **Frontend**        | **Angular 17**, **RxJS**, **PrimeNg**, **NgRx**, **SCSS** | Built responsive, data-driven interfaces for risk analysis and monitoring workflows. |
 | **Backend**         | **.NET / ASP.NET Core**                                            | Handled APIs, risk logic, and compliance workflows.                                  |
 | **Database**        | **SQL Server**                                                     | Stored risk matrices, user configurations, and audit trails.                         |
 | **Cloud / Hosting** | **Azure**                                                          | Deployed for high availability and healthcare-grade security.                        |
@@ -46,7 +46,7 @@ Key contributions:
 * Developed **dynamic, data-driven Angular components** for risk assessment dashboards and heat maps.
 * Implemented **NgRx state management** to handle real-time updates to risk indicators and mitigation plans.
 * Built **modular UI elements** (cards, charts, forms) following clean, reusable component design.
-* Integrated **Angular Material** for professional-grade UI consistency and accessibility.
+* Integrated **PrimeNg** for professional-grade UI consistency and accessibility.
 * Collaborated with backend developers to connect Angular modules with **.NET Core APIs** for data exchange and report generation.
 * Focused on **performance tuning**, ensuring low-latency UI updates even with complex datasets.
 
