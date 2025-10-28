@@ -61,7 +61,7 @@ The challenge was to render and update these matrices in real time as users ente
 
 I implemented:
 
-* Reactive **RxJS streams** that listen for parameter changes.
+* Reactive **RxJS streams** + Signals that listen for parameter changes.
 * A **dynamic matrix component** that redraws color-coded cells (green/yellow/red) to represent current risk levels.
 * **NgRx selectors** to manage real-time synchronization between user actions and the displayed risk matrix.
 
